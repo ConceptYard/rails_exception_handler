@@ -1,4 +1,5 @@
-
+.rvmrc
+.idea
 *~
 *.swp
 database.yml

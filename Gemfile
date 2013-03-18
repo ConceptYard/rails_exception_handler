@@ -8,7 +8,8 @@ group :test, :development do
 
   gem "rails", '3.2.12'
     gem "rack-test", '0.6.1'
-    gem 'mysql2', '0.3.11'
+    gem 'pg'
+    gem 'postgres-pr'
 
   gem 'pry'
   gem "rspec-rails"
